@@ -1,0 +1,11 @@
+﻿4
+Pufi p 1
+Para b 5
+Dede d 4
+Deltás d 1
+3
+Legerősebb növény: Dede Deltafa 6
+Teszteli: több nap
+		  második nap helyes sugázás : Delta
+		  utolsó nap helyes surgárzás: Nincs
+		  sugárzás változása, amikor legalább egy túléli

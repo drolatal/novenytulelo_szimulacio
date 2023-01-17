@@ -1,0 +1,7 @@
+﻿3
+Pufi p 1
+Para b 5
+Deltás d 1
+7
+Nincs élő növény!
+Teszteli: sugárzás változása, amikor egy növény se éli túl

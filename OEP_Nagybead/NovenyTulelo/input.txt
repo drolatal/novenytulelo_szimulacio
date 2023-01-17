@@ -1,0 +1,7 @@
+﻿4
+Falánk p 7
+Sudár d 5
+Köpcös b 4
+Nyúlánk d 3
+10
+Feladatban szereplő példa bemenet, nem teszteset

@@ -1,0 +1,8 @@
+﻿4
+Pufi p 1
+Para b 5
+Dede d 4
+Deltás d 1
+1
+Legerősebb növény: Para Parabokor 4
+Teszteli: egy nap

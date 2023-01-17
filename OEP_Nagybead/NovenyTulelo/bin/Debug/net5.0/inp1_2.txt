@@ -1,0 +1,6 @@
+﻿1
+Pufi p 7
+2
+Legerősebb növény: Pufi Puffancs Tápanyag 8
+Teszteli: egy növény
+		  első és utolsó legerősebb
